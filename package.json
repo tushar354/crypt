@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fontsource/ubuntu": "^5.0.8",
+    "react-icons": "^5.0.1"
+  }
+}
